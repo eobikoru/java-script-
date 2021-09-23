@@ -1,0 +1,99 @@
+.flex-box-container-1{
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    flex-flow: row;
+   
+}
+
+.flex-box-container-1 div{
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    flex-flow: row;
+
+}
+
+.container-1{
+    border: 2px solid black;
+    width: 75%;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.people{
+    background-color: cornsilk;
+    border: 2px solid black;
+    margin-left: 400px;
+    margin-right: 300px;
+    margin-top: 100px;
+    color:white;
+    text-align: center;
+    height: 500px;
+    width : 500px;
+    padding-top: 70px;
+    padding-bottom: 80px;
+    background-image: url('../pictures/bg.jpg');
+
+    
+}
+
+.people-1{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+#save-el{
+    border: 2px solid red;
+    margin: 10px 20px;
+}
+
+.container-2{
+    
+    text-align: center;
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+}
+.challenge{
+    border: 1px solid black;
+    padding: 10px;
+}
+.generate{
+    padding: 10px;
+    border: 1px solid black;
+
+}
+.pic{
+border: 2px solid black;
+margin-bottom: 10px;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.pic img{
+    padding: 10px;
+    
+}
+
+
+
+.container-3{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;    
+}
+.flex-box-rps{
+    border: 1px  solid black;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
